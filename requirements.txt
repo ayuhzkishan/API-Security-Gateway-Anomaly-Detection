@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pyjwt
+scikit-learn
+pandas
+streamlit
+python-multipart
